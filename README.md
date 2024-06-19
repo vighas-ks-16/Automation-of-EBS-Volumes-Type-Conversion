@@ -41,7 +41,7 @@ This function is triggered by an event containing the ARN of the EBS volume to b
 ![WhatsApp Image 2024-06-19 at 10 34 52_2636e960](https://github.com/vighas-ks-16/Automation-of-EBS-Volumes-Type-Conversion/assets/107311113/f89cf62f-8cab-4234-a610-d9fc3020856f)
 
 
-### Defining an IAM Rule (Customer Managed) :
+### Defining an IAM Rule (Customer Inline) :
 
 ![WhatsApp Image 2024-06-19 at 10 35 29_cf292b0f](https://github.com/vighas-ks-16/Automation-of-EBS-Volumes-Type-Conversion/assets/107311113/f13b8ab8-7a12-4f2d-b276-5b1e7068b743)
 
